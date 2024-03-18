@@ -5,8 +5,8 @@ content = """
         <title> simple webserver </title>
     </head>
     <body>
-       <table border="2" cellspacing="12" cellpadding="12" height="25" width="50">
-       <h1> TOP FIVE SOFTWARE COMPANIES </h1>
+       <table align="center" border="2" cellspacing="12" cellpadding="12" height="25" width="50">
+       <h1 align="center"> TOP FIVE SOFTWARE COMPANIES </h1>
             <tr>
                 <th>Rank</th>
                 <th>Company</th>
